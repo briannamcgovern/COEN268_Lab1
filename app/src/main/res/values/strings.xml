@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="w">West</string>
+    <string name="n">North</string>
+    <string name="c">Center</string>
+    <string name="s">South</string>
+    <string name="e">East</string>
+    <string name="nw">NW</string>
+    <string name="sw">SW</string>
+    <string name="se">SE</string>
+    <string name="ne">NE</string>
+    <string name="linear">Linear</string>
+    <string name="relative">Relative</string>
+    <string name="table">Table</string>
+    <string name="grid">Grid</string>
+    <string name="frame">Frame</string>
+    <string name="constraint">Constraint</string>
+</resources>
